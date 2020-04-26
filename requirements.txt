@@ -2,3 +2,6 @@ flask==1.1.2
 flask-uploads==0.2.1
 flask-dropzone==1.5.4
 werkzeug==0.16.1
+matplotlib==3.2.1
+opencv-python==4.2.0.32
+tensorflow==1.14.0
