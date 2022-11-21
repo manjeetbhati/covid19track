@@ -4,4 +4,4 @@ flask-dropzone==1.5.4
 werkzeug==0.16.1
 matplotlib==3.2.1
 opencv-python==4.2.0.32
-tensorflow==1.14.0
+tensorflow==2.9.3
